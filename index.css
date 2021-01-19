@@ -1,0 +1,71 @@
+h1 {
+    color: black;
+    text-align:center;
+
+}
+hr { display: block; height: 10px;
+    border: 35; border-top: 1px solid black;
+    margin: 1em 0; padding: 20; 
+    color:black;
+}
+a.button {
+    background-color:goldenrod; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+hr {
+   style="height:2px;border-width:10;color:gray;background-color:gray">
+}
+
+p {
+    color:black);
+}
+body {
+    background-color: cornflowerblue;
+}
+
+img {
+    text-align:right;
+}
+
+.Intro{ 
+    background-color: goldenrod;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.Hobbies{ 
+    background-color: goldenrod;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    margin-left: 1200px;
+    padding: 20px;
+
+}
+.Pictures {
+    background-color: goldenrod;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    margin-right: 115px;
+    padding: 20px;
+}
+
+.Form {
+    background-color: goldenrod;
+    color:black;
+    border: 2px solid black;
+    margin: 20px;
+    margin-right: 1090px;
+    padding: 20px;
+}
